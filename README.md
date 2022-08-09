@@ -15,11 +15,11 @@ I combine my vocation and avocation by building custom dashboards for stalking s
 
 Projects: 
 1. Stock Analysis Engine:
-•	Scraped fundamental ratios and media releases from stocks analysis websites with BeautifulSoup library to assess growth trajectory and signal buy opportunities
-•	Fetched historical data from YahooFinance to enable trend analysis using moving averages algorithm, used Chart.js to visualize price trend and correlation by sector.
+  Scraped fundamental ratios and media releases from stocks analysis websites with BeautifulSoup library to assess growth trajectory and signal buy opportunities
+  Fetched historical data from YahooFinance to enable trend analysis using moving averages algorithm, used Chart.js to visualize price trend and correlation by sector.
 
 2. Amazon Goodreads Price trend Analyzer:
-•	Developed a program to periodically fetch book prices and ratings from Amazon and Goodreads, using Python’s Scrapy library, notifying, and assisting users to make better buying decisions
+  Developed a program to periodically fetch book prices and ratings from Amazon and Goodreads, using Python’s Scrapy library, notifying, and assisting users to make better buying decisions
 
 <!---
 yashdani27/yashdani27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
